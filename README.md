@@ -1,4 +1,4 @@
-# agile
-Agile process resources
+# Agile process resources
 
-# Implementing an Agile process
+
+## [Facilitating a scalable Agile development process](facilitating-a-scalable-Agile-development-process.md)
